@@ -1,10 +1,12 @@
 # Rhythm Blast [![Build Status](https://travis-ci.org/java-park-mail-ru/Glitchless-09-2017.svg?branch=dev)](https://travis-ci.org/java-park-mail-ru/Glitchless-09-2017) [![codecov](https://codecov.io/gh/java-park-mail-ru/Glitchless-09-2017/branch/master/graph/badge.svg)](https://codecov.io/gh/java-park-mail-ru/Glitchless-09-2017)
 
-Арканоид на стероидах <s>и на котлине</s>.
+Круговой арканоид <s>на котлине</s>, которого мы заслуживаем.
 
-Игра: https://glitchless.ru
+Игра доступна по адресу: https://glitchless.ru
 
 Бекенд: https://glitchless.ru/api
+
+Ссылка на legacy-репозиторий в Технопарке: https://github.com/java-park-mail-ru/Glitchless-09-2017/tree/dev
 
 
 ## Технологии
@@ -15,8 +17,6 @@
 - Ansible, Docker registry, Travis CI
 
 Ссылка на актуальный репозиторий с Frontend: https://github.com/glitchless/RhythmBlastFrontend
-
-Ссылка на репозиторий в Технопарке: https://github.com/frontend-park-mail-ru/2017_2_glitchless
 
 
 ## Инструкции по запуску
