@@ -14,7 +14,8 @@
 - Docker
 - Ansible, Docker registry, Travis CI
 
-Гитхаб с фронтендом: https://github.com/frontend-park-mail-ru/2017_2_glitchless
+Ссылка на актуальный репозиторий с Frontend: https://github.com/glitchless/RhythmBlastFrontend
+Ссылка на репозиторий в Технопарке: https://github.com/frontend-park-mail-ru/2017_2_glitchless
 
 
 ## Инструкции по запуску
