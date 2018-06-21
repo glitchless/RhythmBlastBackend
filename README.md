@@ -1,12 +1,12 @@
 # Rhythm Blast [![Build Status](https://travis-ci.org/java-park-mail-ru/Glitchless-09-2017.svg?branch=dev)](https://travis-ci.org/java-park-mail-ru/Glitchless-09-2017) [![codecov](https://codecov.io/gh/java-park-mail-ru/Glitchless-09-2017/branch/master/graph/badge.svg)](https://codecov.io/gh/java-park-mail-ru/Glitchless-09-2017)
 
-Круговой арканоид <s>на котлине</s>, которого мы заслуживаем.
+Арканоид на стероидах <s>и на котлине</s>.
 
-Игра доступна по адресу: https://glitchless.ru
+🎮 Игра: https://glitchless.ru (если отвалилось, то: https://glitchless.surge.sh)
 
-Бекенд: https://glitchless.ru/api
+💈 Презентация: https://promo.glitchless.ru
 
-Ссылка на legacy-репозиторий в Технопарке: https://github.com/java-park-mail-ru/Glitchless-09-2017/tree/dev
+🚀 Выступление: https://youtu.be/vwdLFMBApPI?t=1h37m32s (1:37:32)
 
 
 ## Технологии
@@ -16,7 +16,9 @@
 - Docker
 - Ansible, Docker registry, Travis CI
 
-Ссылка на актуальный репозиторий с Frontend: https://github.com/glitchless/RhythmBlastFrontend
+🛠 Гитхаб с фронтендом: https://github.com/glitchless/RhythmBlastFrontend (или [тп репа](https://github.com/frontend-park-mail-ru/2017_2_glitchless), звездочки ставьте там, хотя, а, лучше везде)
+
+🎻 Гитхаб с девопсом: https://github.com/reo7sp/glitchless-serv
 
 
 ## Инструкции по запуску
@@ -42,13 +44,15 @@ docker run \
 # будет доступен на http://localhost:8081
 ```
 
+
 ## Инструкция по запуску тестов
 
 ```sh
 docker-compose -f docker-compose-test.yml up --abort-on-container-exit
 ```
 
-## Команда Glitchless
+
+## Команда _Glitchless_
 
 - [Михаил Волынов](https://github.com/StealthTech)
 - [Никита Куликов](https://github.com/LionZXY)
